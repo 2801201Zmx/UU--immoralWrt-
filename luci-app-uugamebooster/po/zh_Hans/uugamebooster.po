@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_Hans\n"
+
+#: htdocs/luci-static/resources/view/uugamebooster.js
+msgid "UU Game Accelerator"
+msgstr "UU游戏加速器"
+
+#: htdocs/luci-static/resources/view/uugamebooster.js
+msgid "A paid game acceleration service. After enabling, use the mobile UU Host Accelerator APP to bind this router and select the console to accelerate."
+msgstr "一个付费主机游戏加速器。开启服务后，使用手机“UU主机加速”APP 绑定本路由器并指定加速主机。"
+
+#: htdocs/luci-static/resources/view/uugamebooster.js
+msgid "Status"
+msgstr "状态"
+
+#: htdocs/luci-static/resources/view/uugamebooster.js
+msgid "Collecting data..."
+msgstr "正在收集数据..."
+
+#: htdocs/luci-static/resources/view/uugamebooster.js
+msgid "Settings"
+msgstr "设置"
+
+#: htdocs/luci-static/resources/view/uugamebooster.js
+msgid "Enable"
+msgstr "启用"
+
+#: htdocs/luci-static/resources/view/uugamebooster.js
+msgid "QR Code"
+msgstr "二维码"
+
+#: htdocs/luci-static/resources/view/uugamebooster.js
+msgid "Scan the QR code to download and bind the UU Host Accelerator APP:"
+msgstr "扫码下载并绑定“UU主机加速”APP："
+
+#: root/usr/share/luci/menu.d/luci-app-uugamebooster.json
+msgid "UU GameAcc"
+msgstr "UU游戏加速器"
+
+#: htdocs/luci-static/resources/view/uugamebooster.js
+msgid "RUNNING"
+msgstr "运行中"
+
+#: htdocs/luci-static/resources/view/uugamebooster.js
+msgid "NOT RUNNING"
+msgstr "未运行"
